@@ -2,7 +2,7 @@
 #include "sort.h"
 
 /**
- * partition - array partition
+ * partition - the array partition
  * @array: array to sort
  * @first: first position
  * @last: last position
